@@ -1,0 +1,35 @@
+body{
+    margin:
+}
+
+.footer{
+    background-color:black;
+    height:100px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    position:fixed;
+}
+footer{
+    display:block;
+}
+.font-white{
+    color:white;}
+
+.chat{
+    position:fixed;
+    bottom:120px;
+}
+
+.chat-2{
+
+}
+
+.nav{
+    background-color: black;
+    
+}
+
+.container{
+
+}
