@@ -4,4 +4,4 @@ body{
 p{
     color: black;
   }
-.logo{max-height:6vh;}
+.logo{max-height:300px; max-width:300px;}
